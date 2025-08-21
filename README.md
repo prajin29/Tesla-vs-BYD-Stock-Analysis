@@ -1,4 +1,4 @@
-# 📊 Tesla vs BYD Stock Analysis (2015–2025)
+# 📊 Tesla vs BYD Stock Analysis (2020–2025)
 
 ## 📌 Overview
 This project analyzes and compares the stock performance of **Tesla (TSLA)** and **BYD (1211.HK)** using Python, pandas, and matplotlib.  
