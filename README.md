@@ -13,7 +13,7 @@ It covers **price trends, returns, volatility, moving averages, and correlations
 ---
 
 ## 🔍 Analysis Covered
-1. **Stock Price Trends** (2015–2025)  
+1. **Stock Price Trends** (2020–2025)  
 2. **Normalized Growth** (relative % change)  
 3. **Moving Averages (MA50)**  
 4. **Trading Volume Analysis**  
