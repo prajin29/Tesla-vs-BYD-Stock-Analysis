@@ -45,8 +45,3 @@ It covers **price trends, returns, volatility, moving averages, and correlations
 - **Moving averages & volatility regimes** can help refine trading strategies.  
 
 ---
-
-## 🚀 How to Run
-1. Clone this repository:  
-   ```bash
-   git clone https://github.com/USERNAME/Tesla-vs-BYD-Stock-Analysis.git
